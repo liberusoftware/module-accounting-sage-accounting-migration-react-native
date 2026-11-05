@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-sage-accounting-migration-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-sage-accounting-migration",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-sage-accounting-migration-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/sage-accounting-migration.md",
+  "presentationPlan": "projects/accounting/react-native/sage-accounting-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
